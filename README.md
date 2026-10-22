@@ -1,6 +1,6 @@
 <div align="center">
 
-![Reda Misk — Software & Web Development](assets/banner.svg)
+![Reda Misk — Software & Web Development](assets/banner-v2.svg)
 
 # Hi, I'm Reda Misk 👋
 
