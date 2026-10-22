@@ -1,10 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Reda Misk software development banner">
-<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#080e1b"/><stop offset=".6" stop-color="#101f3c"/><stop offset="1" stop-color="#102f65"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#56b8ff"/><stop offset="1" stop-color="#3178ff"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#5f9bff" stroke-opacity=".08"/></pattern></defs>
-<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-<circle cx="1050" cy="150" r="200" fill="#3178ff" opacity=".07"/><circle cx="1050" cy="150" r="140" fill="none" stroke="#66c7ff" stroke-opacity=".13" stroke-width="2"/>
-<text x="66" y="118" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700">Reda <tspan fill="url(#accent)">Misk</tspan></text>
-<text x="69" y="167" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="26" letter-spacing="7">SOFTWARE DEVELOPMENT</text>
-<text x="70" y="217" fill="#9fb8d9" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="2">LEARNING  •  BUILDING  •  IMPROVING</text>
-<rect x="835" y="64" width="295" height="175" rx="13" fill="#071121" stroke="#4079ba" stroke-opacity=".65"/><circle cx="860" cy="85" r="5" fill="#f16d78"/><circle cx="877" cy="85" r="5" fill="#f9c65f"/><circle cx="894" cy="85" r="5" fill="#65d5a1"/>
-<text x="862" y="129" fill="#6cbcff" font-family="monospace" font-size="18">const developer = {</text><text x="885" y="159" fill="#dbeafe" font-family="monospace" font-size="17">name: "Reda Misk",</text><text x="885" y="188" fill="#dbeafe" font-family="monospace" font-size="17">status: "Learning"</text><text x="862" y="217" fill="#6cbcff" font-family="monospace" font-size="18">};</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Reda Misk, Software and Web Development. Learning, Building, Improving.">
+ <defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070d1b"/><stop offset="0.6" stop-color="#10254b"/><stop offset="1" stop-color="#0b1021"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#50b9ff"/><stop offset="1" stop-color="#8b7cff"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6e9dcb" stroke-opacity=".12"/></pattern>
+ </defs>
+ <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+ <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+ <circle cx="1040" cy="150" r="190" fill="#4c6fff" opacity=".10"/>
+ <circle cx="1100" cy="70" r="115" fill="#35d0ff" opacity=".08"/>
+ <path d="M30 270H1170" stroke="#78b6f8" stroke-opacity=".25"/>
+ <rect x="58" y="57" width="6" height="170" rx="3" fill="url(#accent)"/>
+ <text x="89" y="112" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="66" fill="#ffffff">REDA <tspan fill="#63baff">MISK</tspan></text>
+ <text x="91" y="165" font-family="Arial,Helvetica,sans-serif" font-weight="600" letter-spacing="4" font-size="27" fill="#d7e9ff">SOFTWARE &amp; WEB DEVELOPMENT</text>
+ <text x="91" y="216" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="2" fill="#a7c6e6">LEARNING  •  BUILDING  •  IMPROVING</text>
+ <g transform="translate(825 62)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="0" y="0" width="295" height="176" rx="13" stroke="#6b9fd5" stroke-width="3" fill="#0a152c"/>
+  <path d="M0 37H295" stroke="#355780" stroke-width="2"/>
+  <circle cx="20" cy="19" r="5" fill="#ff7b89"/><circle cx="38" cy="19" r="5" fill="#ffd06a"/><circle cx="56" cy="19" r="5" fill="#5ad7b2"/>
+  <path d="M38 74L20 91 38 108M63 74L81 91 63 108" stroke="#67c6ff" stroke-width="5"/>
+  <path d="M115 70H225M115 92H252M115 114H199M37 144H151" stroke="#7c8cfa" stroke-width="7" opacity=".85"/>
+  <path d="M120 176L100 201H195L175 176" stroke="#6b9fd5" stroke-width="4"/>
+ </g>
+ <rect x="1" y="1" width="1198" height="318" rx="21" stroke="#7daaf1" stroke-opacity=".25" stroke-width="2" fill="none"/>
 </svg>
