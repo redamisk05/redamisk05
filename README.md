@@ -1,59 +1,50 @@
 <div align="center">
+  <img src="assets/banner.svg" alt="Reda Misk — Software Development | Learning, Building, Improving" width="100%" />
 
-# Hi 👋, I'm Reda Misk
+  # Hi, I'm Reda Misk 👋
 
-### 💻 Computer Science Student | Aspiring Software Developer
+  **Computer Science Student · Aspiring Software Developer**
 
-📍 Québec, Canada · 🎯 Open to Software Development Internships
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+to+build+better+software;Java+%7C+C%23+%7C+Python+%7C+PHP+%7C+SQL;Growing+one+project+at+a+time" alt="Animated introduction" />
-
+  📍 Laval, Québec, Canada · 🎯 Interested in software development internships
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a computer science student interested in software development, object-oriented programming, and databases. I'm strengthening my skills through coursework and hands-on practice, and I'm using GitHub to document what I learn and publish my work as it develops.
+I'm a computer science student developing my skills in software development through coursework and hands-on practice. I'm interested in object-oriented programming, databases, and building useful applications.
 
-- 🌱 Currently learning and practicing software development
-- 🧩 Interested in building useful applications and improving my problem-solving skills
-- 🤝 Looking for opportunities to learn from developers and contribute as an intern
-- 📂 Public projects will be added here as I complete and prepare them for sharing
+I'm using GitHub to document my learning and share code as I complete projects.
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages I'm Learning & Working With
 
-<div align="center">
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Areas of study:** Object-oriented programming · Databases · Web and application development
 
-</div>
+### 🌱 Currently Focusing On
 
-## 📚 Currently Focusing On
+- Strengthening my programming and problem-solving skills
+- Writing clearer, more maintainable code
+- Learning to use Git and GitHub effectively
+- Preparing my first public software repositories
 
-- Object-oriented programming and clean code
-- Database design and SQL
-- Building and documenting practical applications
-- Learning Git and GitHub workflows
+### 📂 Projects
 
-## 📁 Projects
+I'm currently preparing my first public repositories. As I publish projects, I'll include source code, setup instructions, and notes on what I learned.
 
-I'm preparing my first public repositories. As I publish projects, I'll include the source code, setup instructions, and what I learned while building them.
+### 🎯 What I'm Working Toward
 
-## 🎯 My Goal
-
-I'm seeking a software development internship where I can apply what I'm learning, gain practical experience, and continue growing as a developer.
+I'm interested in software development internship opportunities where I can learn from experienced developers, contribute to a team, and apply my skills to real problems.
 
 ---
 
 <div align="center">
-
-**Thanks for visiting my profile!** 👋
-
-[![GitHub](https://img.shields.io/badge/GitHub-redamisk05-181717?style=for-the-badge&logo=github)](https://github.com/redamisk05)
-
+  <sub>Thanks for visiting my GitHub profile! 👋</sub>
 </div>
