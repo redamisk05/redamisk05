@@ -47,7 +47,22 @@ I'm using GitHub to document what I learn and share real code as I complete proj
 
 ## 📂 Projects
 
-I'm preparing my first public repositories. As I publish real projects, I'll add source code, setup instructions, screenshots where useful, and notes on what I learned.
+### 💰 SpendWise — Personal Finance Tracker
+
+A responsive personal finance dashboard built with HTML, CSS, and JavaScript.
+
+**Features:**
+- Add and delete income and expense transactions
+- Track total balance, income, and expenses
+- Visualize spending by category
+- Search and filter transactions
+- Save data locally in the browser
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript · LocalStorage
+
+🌐 [Live Demo](https://redamisk05.github.io/SpendWise/)
+
+💻 [Source Code](https://github.com/redamisk05/SpendWise)
 
 ## 🎯 Goals
 
