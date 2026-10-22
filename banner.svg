@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Reda Misk software development banner">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#080e1b"/><stop offset=".6" stop-color="#101f3c"/><stop offset="1" stop-color="#102f65"/></linearGradient><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#56b8ff"/><stop offset="1" stop-color="#3178ff"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#5f9bff" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<circle cx="1050" cy="150" r="200" fill="#3178ff" opacity=".07"/><circle cx="1050" cy="150" r="140" fill="none" stroke="#66c7ff" stroke-opacity=".13" stroke-width="2"/>
+<text x="66" y="118" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700">Reda <tspan fill="url(#accent)">Misk</tspan></text>
+<text x="69" y="167" fill="#f1f5f9" font-family="Arial,Helvetica,sans-serif" font-size="26" letter-spacing="7">SOFTWARE DEVELOPMENT</text>
+<text x="70" y="217" fill="#9fb8d9" font-family="Arial,Helvetica,sans-serif" font-size="19" letter-spacing="2">LEARNING  •  BUILDING  •  IMPROVING</text>
+<rect x="835" y="64" width="295" height="175" rx="13" fill="#071121" stroke="#4079ba" stroke-opacity=".65"/><circle cx="860" cy="85" r="5" fill="#f16d78"/><circle cx="877" cy="85" r="5" fill="#f9c65f"/><circle cx="894" cy="85" r="5" fill="#65d5a1"/>
+<text x="862" y="129" fill="#6cbcff" font-family="monospace" font-size="18">const developer = {</text><text x="885" y="159" fill="#dbeafe" font-family="monospace" font-size="17">name: "Reda Misk",</text><text x="885" y="188" fill="#dbeafe" font-family="monospace" font-size="17">status: "Learning"</text><text x="862" y="217" fill="#6cbcff" font-family="monospace" font-size="18">};</text>
+</svg>
