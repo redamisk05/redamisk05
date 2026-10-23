@@ -64,6 +64,23 @@ A responsive personal finance dashboard built with HTML, CSS, and JavaScript.
 
 💻 [Source Code](https://github.com/redamisk05/SpendWise)
 
+### 🎓 GradePilot — Student Grade Calculator
+
+A Python desktop application built with Tkinter and SQLite to help students manage assessments and calculate weighted course averages.
+
+**Features:**
+- Add, edit, and delete course assessments
+- Calculate weighted grade averages automatically
+- Filter assessments by course
+- Validate grades and assessment weights
+- Save records locally using SQLite
+
+**Tech Stack:** Python · Tkinter · SQLite
+
+💻 [Source Code](https://github.com/redamisk05/GradePilot)
+
+**How to run:** Download the repository and run `py app.py` with Python installed.
+
 ## 🎯 Goals
 
 I'm looking for opportunities to learn from a development team and gain practical experience through **software development or web development internships**.
